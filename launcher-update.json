@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v0.3.1/TownyWars-Launcher-Setup-0.3.1.exe",
-  "sha256": "7a9439dbe055e2b63fd8a727d9c68f28145399cb2dde49b3d491f3e154aeab5e",
-  "notes": "One-click Prism setup, Microsoft sign-in on first launch, and automatic TownyWars server joining."
+  "version": "0.4.0",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v0.4.0/TownyWars-Launcher-Setup-0.4.0.exe",
+  "sha256": "361162acd161efb8ca19696b00bcf66f9a7599e322fd26efb18e2b83678c9978",
+  "notes": "Prism Launcher is now bundled and installed automatically. Players only download TownyWars, then sign in to Microsoft on their first launch."
 }
