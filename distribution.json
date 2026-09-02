@@ -7,7 +7,7 @@
       "name": "TownyWars",
       "description": "Arcane Dragons — TownyWars Realm + MineColonies",
       "icon": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/townywars-crest.png",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -3349,7 +3349,7 @@
           "type": "File",
           "artifact": {
             "size": 2934780,
-            "SHA1": "85fd2ad4e635e7257172d55b4f3c5a6db113abd4",
+            "SHA1": "317e267db71d39022796237c249573f4aa23ab19",
             "path": "mods/TownyWars-High-Elven-Stylepack-1.21.1-1.0.0.jar",
             "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/TownyWars-High-Elven-Stylepack-1.21.1-1.0.0.jar"
           }
