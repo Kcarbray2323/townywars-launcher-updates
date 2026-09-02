@@ -3322,6 +3322,39 @@
           }
         },
         {
+          "id": "townywars-stylepack-0",
+          "name": "mods/sword_and_kingdom_schematic-1.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4036162,
+            "SHA1": "cc4583c03352eb543cd9fd11a249aaab8230dbbe",
+            "path": "mods/sword_and_kingdom_schematic-1.7.jar",
+            "url": "https://www.curseforge.com/api/v1/mods/1361850/files/7560087/download"
+          }
+        },
+        {
+          "id": "townywars-stylepack-1",
+          "name": "mods/rustic_v1.3.2.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3032947,
+            "SHA1": "236d54facaadb5cae5859ca75825871a4f2847b3",
+            "path": "mods/rustic_v1.3.2.1.jar",
+            "url": "https://www.curseforge.com/api/v1/mods/1632124/files/8640585/download"
+          }
+        },
+        {
+          "id": "townywars-stylepack-2",
+          "name": "mods/TownyWars-High-Elven-Stylepack-1.21.1-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2934780,
+            "SHA1": "85fd2ad4e635e7257172d55b4f3c5a6db113abd4",
+            "path": "mods/TownyWars-High-Elven-Stylepack-1.21.1-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/TownyWars-High-Elven-Stylepack-1.21.1-1.0.0.jar"
+          }
+        },
+        {
           "id": "townywars-pack-overrides",
           "name": "Arcane Dragons configuration bundle",
           "type": "File",
