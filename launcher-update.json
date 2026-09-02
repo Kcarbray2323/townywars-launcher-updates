@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.1/TownyWars-Launcher-Setup-1.1.1.exe",
-  "sha256": "b5cb4b700dd14913e8a1b854a3cf5101404764a500c311a787c672e759bfb1a0",
-  "notes": "Restores TownyWars branding throughout the launcher and Windows installer, embeds the TownyWars crest as the application icon, and improves Microsoft login error reporting."
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.2/TownyWars-Launcher-Setup-1.1.2.exe",
+  "sha256": "6697050bdb1826447f21585516697dac3a4106cf4ce8415f2d503c0232a1a5bb",
+  "notes": "Adds a temporary secure Microsoft login path while TownyWars awaits Minecraft Services approval. The TownyWars installer now includes the login component, keeps the modpack in one managed folder, and launches directly into play.townywars.net."
 }
