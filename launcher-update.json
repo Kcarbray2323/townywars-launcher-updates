@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.2/TownyWars-Launcher-Setup-1.1.2.exe",
-  "sha256": "6697050bdb1826447f21585516697dac3a4106cf4ce8415f2d503c0232a1a5bb",
-  "notes": "Adds a temporary secure Microsoft login path while TownyWars awaits Minecraft Services approval. The TownyWars installer now includes the login component, keeps the modpack in one managed folder, and launches directly into play.townywars.net."
+  "version": "1.1.3",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.3/TownyWars-Launcher-Setup-1.1.3.exe",
+  "sha256": "043c122664a2489aca76540816f6a6689777384032946466a813c925281b6429",
+  "notes": "Fixes settings navigation and connects TownyWars to the standard Prism account profile, so the Microsoft account you add in Prism is used by the launcher."
 }
