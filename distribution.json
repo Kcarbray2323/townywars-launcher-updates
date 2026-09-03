@@ -11,7 +11,7 @@
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "javaOptions": {
         "supported": ">=21.x",
         "suggestedMajor": 21,
