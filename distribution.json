@@ -7,7 +7,7 @@
       "name": "TownyWars",
       "description": "Arcane Dragons — TownyWars Realm + MineColonies",
       "icon": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/townywars-crest.png",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -3366,14 +3366,14 @@
           }
         },
         {
-          "id": "townywars-races-classes-0.2.1",
-          "name": "mods/townywars_races-0.2.1.jar",
+          "id": "townywars-races-classes-0.2.3",
+          "name": "mods/townywars_races-0.2.3.jar",
           "type": "File",
           "artifact": {
-            "size": 102879,
-            "SHA1": "5cb06f2a5c1d95b28744c85b09b4964a88685e80",
-            "path": "mods/townywars_races-0.2.1.jar",
-            "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/townywars_races-0.2.1.jar"
+            "size": 104744,
+            "SHA1": "134b183869ab5537741b4a62a6ffe577bdd453fd",
+            "path": "mods/townywars_races-0.2.3.jar",
+            "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/townywars_races-0.2.3.jar"
           }
         },
         {
