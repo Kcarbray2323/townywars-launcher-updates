@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.7/TownyWars-Launcher-Setup-1.1.7.exe",
-  "sha256": "6831f129fdf65e9918e4f6661c9abe927aab37aec654a9859c8b06df681f150a",
-  "notes": "Improves startup speed, installs the NeoForge client runtime automatically, preserves Minecraft defaults and saved controls, keeps the server in the multiplayer list without auto-joining, and avoids two NeoForge startup-crashing client mods."
+  "version": "1.1.8",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.8/TownyWars-Launcher-Setup-1.1.8.exe",
+  "sha256": "4bea030eee3be6b3a839020735ae379c1f3e70defd41714512f94b8c083a5de9",
+  "notes": "Fixes update checks that could remain stuck indefinitely by adding a timeout, preventing overlapping checks, and restoring the Check for Updates button when the network is unavailable."
 }
