@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.6/TownyWars-Launcher-Setup-1.1.6.exe",
-  "sha256": "c9c150d998b1cd1e48738ea9c30bc5bc763552437f9e2506c715fe8f256f2f7b",
-  "notes": "Restores direct Microsoft sign-in in TownyWars Launcher after Mojang approved the app ID. The launcher now opens Minecraft itself again instead of relying on Prism, while keeping player keybind protection through updates."
+  "version": "1.1.7",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.7/TownyWars-Launcher-Setup-1.1.7.exe",
+  "sha256": "6831f129fdf65e9918e4f6661c9abe927aab37aec654a9859c8b06df681f150a",
+  "notes": "Improves startup speed, installs the NeoForge client runtime automatically, preserves Minecraft defaults and saved controls, keeps the server in the multiplayer list without auto-joining, and avoids two NeoForge startup-crashing client mods."
 }
