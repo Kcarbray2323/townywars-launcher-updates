@@ -1,0 +1,2 @@
+The TownyWars Races & Classes mod was retired in pack version 1.5.0.
+This valid empty JAR replaces the prior mod automatically; it contains no Minecraft mod.
