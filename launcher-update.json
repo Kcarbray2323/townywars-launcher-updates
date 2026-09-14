@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.8/TownyWars-Launcher-Setup-1.1.8.exe",
-  "sha256": "4bea030eee3be6b3a839020735ae379c1f3e70defd41714512f94b8c083a5de9",
-  "notes": "Fixes update checks that could remain stuck indefinitely by adding a timeout, preventing overlapping checks, and restoring the Check for Updates button when the network is unavailable."
+  "version": "1.1.9",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.9/TownyWars-Launcher-Setup-1.1.9.exe",
+  "sha256": "9d6b9e75fc80821fd0e5513ef430322263cae396c3baeb5a6534a4467a4b67eb",
+  "notes": "Refreshes the TownyWars modpack manifest whenever the launcher opens. Clients now receive required pack changes, including retired-mod replacements, before Minecraft starts."
 }
