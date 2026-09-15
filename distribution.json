@@ -7,7 +7,7 @@
       "name": "TownyWars Clean Client",
       "description": "Fresh TownyWars client profile matching the current server and MineColonies",
       "icon": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/townywars-crest.png",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -3499,6 +3499,18 @@
             "SHA1": "19b9b922f615fc661fcce31a13b16b518d9b14df",
             "path": ".townywars/Arcane-Dragons-1.3.0.mrpack",
             "url": "https://cdn.modrinth.com/data/iKp2IdJv/versions/NeoJwioW/Arcane%20Dragons%20%5BNEOFORGE%5D%201.3.0.mrpack"
+          }
+        },
+        {
+          "id": "townywars-branding-overrides",
+          "name": "TownyWars branding override",
+          "type": "File",
+          "extractOverrides": true,
+          "artifact": {
+            "size": 1413,
+            "SHA1": "8e45832ea9e90fb7e4f242c2e25c8b5d4d054258",
+            "path": ".townywars/TownyWars-client-overrides.zip",
+            "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/TownyWars-client-overrides.zip"
           }
         }
       ]
