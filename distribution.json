@@ -3,11 +3,11 @@
   "rss": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases.atom",
   "servers": [
     {
-      "id": "townywars-arcane-dragons",
-      "name": "TownyWars",
-      "description": "Arcane Dragons — TownyWars Realm + MineColonies",
+      "id": "townywars-clean-client",
+      "name": "TownyWars Clean Client",
+      "description": "Fresh TownyWars client profile matching the current server and MineColonies",
       "icon": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/townywars-crest.png",
-      "version": "1.5.2",
+      "version": "2.0.0",
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
