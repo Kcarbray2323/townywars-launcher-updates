@@ -7,7 +7,7 @@
       "name": "TownyWars Clean Client",
       "description": "Fresh TownyWars client profile matching the current server and MineColonies",
       "icon": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/townywars-crest.png",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "address": "play.townywars.net",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -3386,6 +3386,108 @@
             "path": "mods/voicechat-neoforge-1.21.1-2.6.18.jar",
             "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/voicechat-neoforge-1.21.1-2.6.18.jar"
           }
+        },
+        {
+          "id": "townywars-server-sync-01",
+          "name": "mods/alltheleaks-1.0.6+1.21.1-neoforge.jar",
+          "type": "File",
+          "artifact": { "size": 1062074, "SHA1": "5ab90723241e6225add16a479e8b8311a8a5fec1", "path": "mods/alltheleaks-1.0.6+1.21.1-neoforge.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/alltheleaks-1.0.6+1.21.1-neoforge.jar" }
+        },
+        {
+          "id": "townywars-server-sync-02",
+          "name": "mods/ApothicAttributes-1.21.1-2.9.0.jar",
+          "type": "File",
+          "artifact": { "size": 311113, "SHA1": "eed5808509eb279fd342cafebadd5b95accb4ef8", "path": "mods/ApothicAttributes-1.21.1-2.9.0.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/ApothicAttributes-1.21.1-2.9.0.jar" }
+        },
+        {
+          "id": "townywars-server-sync-03",
+          "name": "mods/ApothicEnchanting-1.21.1-1.5.0.jar",
+          "type": "File",
+          "artifact": { "size": 5354260, "SHA1": "9ad1e1cbf2ee524d7edca1bcdece6deecf59ddc7", "path": "mods/ApothicEnchanting-1.21.1-1.5.0.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/ApothicEnchanting-1.21.1-1.5.0.jar" }
+        },
+        {
+          "id": "townywars-server-sync-04",
+          "name": "mods/ApothicSpawners-1.21.1-1.3.2.jar",
+          "type": "File",
+          "artifact": { "size": 122622, "SHA1": "c7d5d53202b7195c3680c4a5dacd2c4d1d65f0f1", "path": "mods/ApothicSpawners-1.21.1-1.3.2.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/ApothicSpawners-1.21.1-1.3.2.jar" }
+        },
+        {
+          "id": "townywars-server-sync-05",
+          "name": "mods/BetterModsButton-v21.1.0-1.21.1-NeoForge.jar",
+          "type": "File",
+          "artifact": { "size": 66440, "SHA1": "6762e3e77719e318859567ffa4278e007ffa4554", "path": "mods/BetterModsButton-v21.1.0-1.21.1-NeoForge.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/BetterModsButton-v21.1.0-1.21.1-NeoForge.jar" }
+        },
+        {
+          "id": "townywars-server-sync-06",
+          "name": "mods/citresewn-neoforge-1.21.1-0.jar",
+          "type": "File",
+          "artifact": { "size": 203987, "SHA1": "bda1b3a3f23d8dd1309055b00f9e8bc64b4f7469", "path": "mods/citresewn-neoforge-1.21.1-0.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/citresewn-neoforge-1.21.1-0.jar" }
+        },
+        {
+          "id": "townywars-server-sync-07",
+          "name": "mods/configured-neoforge-1.21.1-2.6.2.jar",
+          "type": "File",
+          "artifact": { "size": 428883, "SHA1": "2f93de329681c11e03692c424f276d5041960946", "path": "mods/configured-neoforge-1.21.1-2.6.2.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/configured-neoforge-1.21.1-2.6.2.jar" }
+        },
+        {
+          "id": "townywars-server-sync-08",
+          "name": "mods/corecommands-2.2.0.jar",
+          "type": "File",
+          "artifact": { "size": 217825, "SHA1": "d0b297fc80c6626565b1dddda7a2b004c49b7eac", "path": "mods/corecommands-2.2.0.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/corecommands-2.2.0.jar" }
+        },
+        {
+          "id": "townywars-server-sync-09",
+          "name": "mods/FallingTree-1.21.1-1.21.1.11.jar",
+          "type": "File",
+          "artifact": { "size": 496356, "SHA1": "626e7ec3a979dcc15d8e65c53207572c41c1b255", "path": "mods/FallingTree-1.21.1-1.21.1.11.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/FallingTree-1.21.1-1.21.1.11.jar" }
+        },
+        {
+          "id": "townywars-server-sync-10",
+          "name": "mods/framework-neoforge-1.21.1-0.9.6.jar",
+          "type": "File",
+          "artifact": { "size": 312915, "SHA1": "5a6b6c61b856098bfe8c9d35b92638ddbc14da27", "path": "mods/framework-neoforge-1.21.1-0.9.6.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/framework-neoforge-1.21.1-0.9.6.jar" }
+        },
+        {
+          "id": "townywars-server-sync-11",
+          "name": "mods/goblintraders-neoforge-1.21.1-1.11.2.jar",
+          "type": "File",
+          "artifact": { "size": 462245, "SHA1": "4507faefb977321b598daa3fb35d7e1a9a03eb80", "path": "mods/goblintraders-neoforge-1.21.1-1.11.2.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/goblintraders-neoforge-1.21.1-1.11.2.jar" }
+        },
+        {
+          "id": "townywars-server-sync-12",
+          "name": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+          "type": "File",
+          "artifact": { "size": 211972, "SHA1": "7cf40ec774392823e709da7659a6d4a5a04c8c9d", "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar" }
+        },
+        {
+          "id": "townywars-server-sync-13",
+          "name": "mods/Quest-Kill-Task-neoforge-0.3.1+1.21.1.jar",
+          "type": "File",
+          "artifact": { "size": 18558, "SHA1": "a8d9ccce4f1c893fa61d4984ccf09620924d074e", "path": "mods/Quest-Kill-Task-neoforge-0.3.1+1.21.1.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/Quest-Kill-Task-neoforge-0.3.1+1.21.1.jar" }
+        },
+        {
+          "id": "townywars-server-sync-14",
+          "name": "mods/Raided-1.21.1-0.1.6.jar",
+          "type": "File",
+          "artifact": { "size": 135536, "SHA1": "2cfa531e38bd7f223bce1ac188ec6659e0421c39", "path": "mods/Raided-1.21.1-0.1.6.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/Raided-1.21.1-0.1.6.jar" }
+        },
+        {
+          "id": "townywars-server-sync-15",
+          "name": "mods/solcarrot-1.21.1-1.16.5.jar",
+          "type": "File",
+          "artifact": { "size": 105333, "SHA1": "cd70f4446b99b589702aebf9e4aaae86e376d4d7", "path": "mods/solcarrot-1.21.1-1.16.5.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/solcarrot-1.21.1-1.16.5.jar" }
+        },
+        {
+          "id": "townywars-server-sync-16",
+          "name": "mods/toofast-0.7.5.7.jar",
+          "type": "File",
+          "artifact": { "size": 3268, "SHA1": "39b9945b317fb302d2cbe2b69e803a5044539c25", "path": "mods/toofast-0.7.5.7.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/toofast-0.7.5.7.jar" }
+        },
+        {
+          "id": "townywars-server-sync-17",
+          "name": "mods/twilightforest-1.21.1-4.8.3345-universal.jar",
+          "type": "File",
+          "artifact": { "size": 27154121, "SHA1": "9cfd4154928433e2f1f6cfc3deb48c284debb580", "path": "mods/twilightforest-1.21.1-4.8.3345-universal.jar", "url": "https://raw.githubusercontent.com/Kcarbray2323/townywars-launcher-updates/main/pack/mods/twilightforest-1.21.1-4.8.3345-universal.jar" }
         },
         {
           "id": "townywars-pack-overrides",
