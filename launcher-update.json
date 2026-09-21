@@ -1,6 +1,6 @@
 {
-  "version": "1.1.11",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.11/TownyWars-Launcher-Setup-1.1.11.exe",
-  "sha256": "02b9486a08d613dfe34ee31288abf227cf41c9842005639e5e37f58419af0428",
+  "version": "1.1.12",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.12/TownyWars-Launcher-Setup-1.1.12.exe",
+  "sha256": "60a1f76faa1bd7d4c1f8d909d6198f6e85aad05a49cd047beae11dd79c416705",
   "notes": "Adds the clean TownyWars Prominence II v4.1.0 Fabric client, installs its full configuration and content set, and automatically retires obsolete managed mod files into a recoverable backup."
 }
