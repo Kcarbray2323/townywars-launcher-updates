@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.9/TownyWars-Launcher-Setup-1.1.9.exe",
-  "sha256": "9d6b9e75fc80821fd0e5513ef430322263cae396c3baeb5a6534a4467a4b67eb",
-  "notes": "Refreshes the TownyWars modpack manifest whenever the launcher opens. Clients now receive required pack changes, including retired-mod replacements, before Minecraft starts."
+  "version": "1.1.11",
+  "downloadUrl": "https://github.com/Kcarbray2323/townywars-launcher-updates/releases/download/v1.1.11/TownyWars-Launcher-Setup-1.1.11.exe",
+  "sha256": "02b9486a08d613dfe34ee31288abf227cf41c9842005639e5e37f58419af0428",
+  "notes": "Adds the clean TownyWars Prominence II v4.1.0 Fabric client, installs its full configuration and content set, and automatically retires obsolete managed mod files into a recoverable backup."
 }

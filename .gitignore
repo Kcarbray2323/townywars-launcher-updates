@@ -1,0 +1,3 @@
+# Prominence II source jars are validated locally by the distribution generator.
+# Clients download the approved files from CurseForge rather than this repository.
+pack/mods/*.jar
